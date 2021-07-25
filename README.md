@@ -1,4 +1,4 @@
-# MATCH: Friend-Matching Platform
+# MATCH: Social Networking Platform
 
 ![demo](/screenshots/animation.gif)
 
